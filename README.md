@@ -9,4 +9,4 @@ readme files are very important files that give a summary of what is in a reposi
 
 other markdown files can be added to your repositories to ack as notes or instructions.
 
-Deleting a line of code
+and replacing it with a new line of code
